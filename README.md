@@ -23,7 +23,7 @@
 ## Architecture
 
 The architecture of this project can be seen in the image below.
-![Architecture](assets/Architecture.png)
+![Architecture](assets/architecture.png)
 
 ## Development
 
