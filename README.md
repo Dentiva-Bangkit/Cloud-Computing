@@ -170,7 +170,7 @@ Visit your deployed service by opening the service URL in a web browser.
 
 ## API Documentation
 
-The details of the API documentation can be accessed at [here](https://api-dentiva.web.app/apiDocs).
+The details of the API documentation can be accessed at [here](https://dentiva-api-lslrt7timq-et.a.run.app/apiDocs).
 
 ## Cloud Computing Team
 
